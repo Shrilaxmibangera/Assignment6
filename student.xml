@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="stcss.css"?>
+<class  xmlns="http://www.w3schools.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="C:\phpassxml stud.xsd">
+
+<student>
+	<stname>
+		<fname>Shrilaxmi</fname>
+		<lname>Bangera</lname>
+		<mname>S</mname>
+	</stname>
+	<address>
+		<houseno>3-40</houseno>
+		<street>Bolje</street>
+		<city>Udyavara</city>
+		<state>Karnataka</state>
+	</address>
+	<marks>90</marks>
+	<hobbies>Dancing</hobbies>
+</student>
+<student>
+	<stname>
+		<fname>Shashank</fname>
+		<lname>Bangera</lname>
+		<mname>S</mname>
+	</stname>
+	<address>
+		<houseno>3-40</houseno>
+		<street>Bolje</street>
+		<city>Udyavara</city>
+		<state>Karnataka</state>
+	</address>
+	<marks>98</marks>
+	<hobbies>Dancing</hobbies>
+</student>
+</class>
